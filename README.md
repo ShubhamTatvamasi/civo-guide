@@ -1,5 +1,10 @@
 # civo-guide
 
+Add your apikey
+```bash
+civo apikey add shubham xxxxxxxxxxxxxxxxxxxxxxxx
+```
+
 show your API key
 ```bash
 civo apikey show
