@@ -10,6 +10,11 @@ show your API key
 civo apikey show
 ```
 
+set API key as default
+```bash
+civo apikey use shubham
+```
+
 create new cluster
 ```bash
 civo kubernetes create civo-beta-cluster
